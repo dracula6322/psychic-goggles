@@ -3,7 +3,7 @@ plugins {
     id("maven-publish")
 }
 
-group = "green.square"
+group = "com.github.dracula6322"
 version = "0.3-tag"
 
 repositories {
