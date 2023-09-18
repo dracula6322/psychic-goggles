@@ -4,7 +4,7 @@ import kotlinx.coroutines.internal.ExceptionSuccessfullyProcessed;
 import org.jetbrains.annotations.NotNull;
 
 @SuppressWarnings("KotlinInternalInJava")
-class ExceptionSuccessfullyProcessedExceptionProvider {
+public class ExceptionSuccessfullyProcessedExceptionProvider {
 
     @NotNull
     static public Throwable get() {
