@@ -4,7 +4,7 @@ plugins {
 }
 
 group = "com.github.dracula6322"
-version = "0.3-tag"
+version = "0.5-tag"
 
 repositories {
     mavenCentral()
