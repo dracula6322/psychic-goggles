@@ -1,2 +1,2 @@
-rootProject.name = "GlobalCEH"
+rootProject.name = "psychic-goggles"
 
